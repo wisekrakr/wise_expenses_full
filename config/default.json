@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://wise:nYDuQSWA8C83GX9@expenses-ebzmr.mongodb.net/expenses?retryWrites=true&w=majority",
+  "jwtSecret": "expenses_myJwtSecret"
+}
